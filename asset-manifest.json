@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.b2be86ee.css",
+    "main.js": "/Website/static/js/main.ae68f4b4.js",
+    "static/js/592.aec878ec.chunk.js": "/Website/static/js/592.aec878ec.chunk.js",
+    "static/media/v6.gif": "/Website/static/media/v6.1cb8ceec128ec0049165.gif",
+    "static/media/v3.gif": "/Website/static/media/v3.a5a43f3063eae4e2c3e2.gif",
+    "static/media/v4.gif": "/Website/static/media/v4.f1b3637c56ca19286b75.gif",
+    "static/media/v1.gif": "/Website/static/media/v1.d09d14be7d8417489872.gif",
+    "static/media/v2.gif": "/Website/static/media/v2.12e0d232de0b8dd3556d.gif",
+    "static/media/hello.png": "/Website/static/media/hello.a8c235fa83cde643833d.png",
+    "static/media/certificate.jpg": "/Website/static/media/certificate.081bea1ce7e36faf182e.jpg",
+    "static/media/Cybersecurity.png": "/Website/static/media/Cybersecurity.1bdff5da17e5c068345e.png",
+    "static/media/ab.jpg": "/Website/static/media/ab.dce36b6ad87d87ba59ff.jpg",
+    "static/media/picture1.png": "/Website/static/media/picture1.1d4beaad9bc92e1b9ece.png",
+    "static/media/prince.png": "/Website/static/media/prince.9bf946265207a0f96c43.png",
+    "static/media/v5.gif": "/Website/static/media/v5.c22e4086b885c07632d7.gif",
+    "index.html": "/Website/index.html",
+    "main.b2be86ee.css.map": "/Website/static/css/main.b2be86ee.css.map",
+    "main.ae68f4b4.js.map": "/Website/static/js/main.ae68f4b4.js.map",
+    "592.aec878ec.chunk.js.map": "/Website/static/js/592.aec878ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2be86ee.css",
+    "static/js/main.ae68f4b4.js"
+  ]
+}
